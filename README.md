@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+![GIF](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+
 Hello there, you...<br><br>I am David Emmanuel and I'm awesome! 😅<br><br>I am currently a student pursuing a Bachelor's Degree in Software Engineering at the African Leadership University (ALU).<br> I’m passionate about initiating and contributing to ideas that solve problems at the intersection of technology and entrepreneurship. I love tech because it helps us solve problems across every sphere of society.<br><br>I am currently specialising in Machine Learning for my Software Engineering degree and my interests span across AI & ML, Data Science and Cybersecurity<br><br>Fun Fact: For fun, I play the keyboard and guitar, sing, and make beats. I'm also a beginner chess player.<br><br>
 
 
