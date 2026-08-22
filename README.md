@@ -2,7 +2,7 @@
 
 # David Emmanuel
 
-**Software Engineer · Co-founder at Cerbertron**
+**Software Engineer 
 
 I build software end to end. TypeScript and React on the web, React Native and Flutter on mobile, Node and Python behind it, with AI woven into the products I ship. Endlessly curious, happiest when I'm learning something new, and genuinely excited about where AI is taking all of this.
 
